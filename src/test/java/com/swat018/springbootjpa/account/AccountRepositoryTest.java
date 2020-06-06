@@ -1,6 +1,5 @@
 package com.swat018.springbootjpa.account;
 
-import org.assertj.core.api.OptionalAssert;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
